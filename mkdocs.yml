@@ -1,0 +1,4 @@
+site_name: djangorestframework-swagger
+site_description: Swagger UI for your Django REST Framework API
+repo_url: https://github.com/ivangeorgiev/django-rest-framework-swagger
+site_dir: html
